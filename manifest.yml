@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: easymarket-db-strongArc
+  host: easymarket-db-strongArc
+  disk_quota: 1024M
